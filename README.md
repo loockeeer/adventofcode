@@ -3,6 +3,15 @@
 These are my solutions for the [Advent Of Code](https://adventofcode.com) annual event, along with my custom-made auto-downloader program that allows me to quickly setup my ocaml workflow. The latter can be found under the `auto_setup` folder.
 Since I do these for fun, please note that I sometimes avoid using Stdlib overly powerful tools, likes Str.regexp. They kind of ruin the fun.
 My solutions' codes are also pretty messy, but that's kind of expected I guess...
+
+## Years
+### 2024
+That's the current year ! Nothing more to say.
+### 2023
+I was busy and didn't participate
+### From 2018 to 2022
+I cannot find the solutions or the account I used back then, unfortunately. If I ever recode them for training purposes, I'll add them surely.
+
 ## Auto Setup
 The name is pretty obvious : it automatically setups my environment for any Advent Of Code day.
 Although the code is **utterly messy**, it works and I can't bother making it any cleaner. On top of this issue, I made it specifically for my preferences, and hence the boilerpalte `dune-project` and `.ocamlformat` are not editable.
