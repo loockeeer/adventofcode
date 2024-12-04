@@ -14,7 +14,7 @@ I cannot find the solutions or the account I used back then, unfortunately. If I
 
 ## Auto Setup
 The name is pretty obvious : it automatically setups my environment for any Advent Of Code day.
-Although the code is **utterly messy**, it works and I can't bother making it any cleaner. On top of this issue, I made it specifically for my preferences, and hence the boilerpalte `dune-project` and `.ocamlformat` are not editable.
+Although the code is **utterly messy**, it works and I can't bother making it any cleanier. On top of this issue, I made it specifically for my preferences, and hence the boilerpalte `dune-project` and `.ocamlformat` are not editable.
 A further improvement could be making this project:
 - Language agnostic; which would require making the boilerplate(s) customizable (preferably in ~/.config, or in the adventofcode folder itself idk) and could lead to the possibility of doing each day in a different language, and submit many solutions
 - Cleanier; the code is messy, not well separated and not commented at all
