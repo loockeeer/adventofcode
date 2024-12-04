@@ -1,0 +1,3 @@
+(executable
+ (public_name D04)
+ (name D04))
