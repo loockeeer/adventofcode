@@ -1,0 +1,22 @@
+(lang dune 3.16)
+
+(name aoc_2015)
+
+(generate_opam_files true)
+
+(source
+ (github loockeeer/adventofcode))
+
+(authors "loockeeer")
+
+(maintainers "loockeeer")
+
+(license LICENSE)
+
+(package
+ (name aoc_2015)
+ (synopsis "ocaml_of_aoc2015")
+ (description "My aoc solutions for the year 2015")
+ (depends ocaml dune)
+ (tags
+  (topics adventofcode 2015)))
